@@ -53,7 +53,7 @@ function renderResults() {
 }
 
 renderResults();
-
+console.log('Results loaded successfully:', results);
 
 
 
